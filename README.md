@@ -5,8 +5,7 @@ ZenHP は、企業サイトを想定して制作した **静的Webサイト（�
 
 ---
 
-🔗 **デモサイトはこちら**  
-https://alecmcclendon.github.io/ZenHP/
+🔗 [デモサイトはこちら](https://alecmcclendon.github.io/ZenHP/)
 
 ---
 
